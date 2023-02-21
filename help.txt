@@ -1,0 +1,8 @@
+'enable'
+ex)enable --server 61 --gpu 0
+
+'disable'
+ex) disable --server 61 --gpu 0
+
+'info'
+ex) info --server 61
